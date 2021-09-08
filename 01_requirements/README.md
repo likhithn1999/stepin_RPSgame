@@ -31,11 +31,9 @@ as you and your opponent match wits in combat — a real brain-bender.
  -this project is developed in low cost also 
  
 
-High Level Requirement:
-
-To write a program to allow a computer to perform that task too. 
-This is how most computers are told what to do. 
-
-Low Level Requirement:
-
-Combination of inputs that can be formed.
+## High Level Requirements:
+  This project can be implemented by using c language in both windows and linux os.   # Implemented
+  This project requires a random number generator function.                           # Implemented
+## Low level Requirements:
+  The Random number has to generate the numbers with in the specified range of number.
+  The comparasion of the character from the player input and the computer generated has to be taken care.
