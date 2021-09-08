@@ -1,12 +1,3 @@
-![flowchart1](https://user-images.githubusercontent.com/89793014/132535928-ad024e27-8e90-434e-a99d-53953dbfa042.jpeg)
+![WhatsApp Image 2021-09-08 at 10 06 56 AM](https://user-images.githubusercontent.com/89793014/132536448-fa7cb324-6023-4c2d-aebb-e705846e9c28.jpeg)
 
-
-
-
-
-
-
-
-
-![flow chart drawio](https://user-images.githubusercontent.com/89793014/132535625-7e96f1a9-f8ca-4e95-bd68-140aecb128b7.png)
 
